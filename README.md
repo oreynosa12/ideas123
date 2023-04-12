@@ -1,4 +1,4 @@
-# <IDEAS123>
+# IDEAS123
 
 ## Description
 
