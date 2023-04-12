@@ -9,6 +9,8 @@ This application was created to allow the user to write down personal notes and 
 It allows the user to keep track of their ideas and tasks through out the day.
 
 
+https://github.com/oreynosa12/ideas123.git
+
 Video link: Coming soon
 
 ## Installation
