@@ -1,5 +1,7 @@
 # IDEAS123
 
+![image](https://user-images.githubusercontent.com/121472588/231344975-03d8113f-5285-4a89-bddb-424625f6f0d3.png)
+
 ## Description
 
 This application was created to allow the user to write down personal notes and tasks.
