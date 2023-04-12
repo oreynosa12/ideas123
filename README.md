@@ -1,4 +1,4 @@
-# <IDEAS123>
+# IDEAS123
 
 ## Description
 
@@ -18,9 +18,14 @@ You can use this application to save your notes and tasks by running the applica
 
 ## Credits
 
-Xandromus 
-Dominique Meeks - Tutor
-ChatGPT
+Xandromus  
+
+Dominique Meeks - Tutor  
+
+ChatGPT  
+
+AskBCS  
+
 Alan Balcom -TA
 
 
